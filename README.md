@@ -6,3 +6,6 @@ i just need to save those links somewhere
 
 <strong>Hashtag Search Engine</strong>
 - [Hashatit](https://www.hashatit.com/)
+
+
+Logitech C920/C922
