@@ -4,7 +4,7 @@
 I just need to save these links somewhere 
 
 <strong>Social media likes and follows</strong>
-- [szybkielajki.pl](https://szybkielajki.pl/) - obvoius fakes. bought 1000 likes for 38pln  - [screenshot](https://github.com/pMiszkin/Social-Media-Tools/blob/main/szybkielajki.png)
+- [szybkielajki.pl](https://szybkielajki.pl/) - obvoius fakes. bought 1000 likes for 38pln  - [screenshot](https://raw.githubusercontent.com/pMiszkin/Social-Media-Tools/main/szybkielajki.png){target="_blank"}
 
 <strong>Youtube Video Downloader</strong>
 - [pl.loader.to](https://pl.loader.to/) - best, works in Poland always (1440p)
