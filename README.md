@@ -4,7 +4,7 @@
 I just need to save these links somewhere 
 
 <strong>Social media likes and follows</strong>
-- [szybkielajki.pl](https://szybkielajki.pl/) - obvoius and non polish fakes  - [screenshot](https://raw.githubusercontent.com/pMiszkin/Social-Media-Tools/main/szybkielajki.png)
+- [szybkielajki.pl](https://szybkielajki.pl/) - obvious and non-polish fakes  - [screenshot](https://raw.githubusercontent.com/pMiszkin/Social-Media-Tools/main/szybkielajki.png)
 
 <strong>Hashtag Search Engine</strong>
 - [Hashatit](https://www.hashatit.com/)
