@@ -1,4 +1,4 @@
-![Alt text](https://github.com/pMiszkin/AI-Tools/blob/main/ai-banner.png "AI banner")
+![Alt text](https://github.com/pMiszkin/Social-Media-Tools/blob/main/socialmedia-banner.png "social media banner")
 
 # Social-Media-Tools
 I just need to save these links somewhere 
