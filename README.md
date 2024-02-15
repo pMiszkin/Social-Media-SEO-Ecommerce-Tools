@@ -11,5 +11,3 @@ I just need to save these links somewhere
 
 <strong>Youtube Video Downloader</strong>
 - [pl.loader.to](https://pl.loader.to/) - best, works in Poland always (1440p)
-
-Logitech C920/C922
