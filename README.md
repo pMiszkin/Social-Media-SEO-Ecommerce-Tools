@@ -1,5 +1,10 @@
+![Alt text](https://github.com/pMiszkin/AI-Tools/blob/main/ai-banner.png "AI banner")
+
 # Social-Media-Tools
-i just need to save these links somewhere 
+I just need to save these links somewhere 
+
+<strong>Social media likes and follows</strong>
+- [szybkielajki.pl](https://szybkielajki.pl/) - obvoius fakes - [screenshot](https://github.com/pMiszkin/AI-Tools/blob/main/szybkielajki.png)
 
 <strong>Youtube Video Downloader</strong>
 - [pl.loader.to](https://pl.loader.to/) - best, works in Poland always (1440p)
