@@ -9,5 +9,9 @@ I just need to save these links somewhere
 <strong>Hashtag Search Engine</strong>
 - [Hashatit](https://www.hashatit.com/)
 
+<strong>Converastions generator</strong>
+- [Tinder cons](http://tindermaker.com/)
+- [Chats](https://pranx.com/chat-screenshot/)
+
 <strong>Youtube Video Downloader</strong>
 - [pl.loader.to](https://pl.loader.to/) - best, works in Poland always (1440p)
