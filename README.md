@@ -9,7 +9,7 @@ I just need to save these links somewhere
 <strong>Hashtag Search Engine</strong>
 - [Hashatit](https://www.hashatit.com/)
 
-<strong>Converastions Generators</strong>
+<strong>Conversations Generators</strong>
 - [Tinder cons](http://tindermaker.com/)
 - [Chat screens](https://pranx.com/chat-screenshot/)
 
