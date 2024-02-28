@@ -10,8 +10,12 @@ I just need to save these links somewhere
 - [Hashatit](https://www.hashatit.com/)
 
 <strong>Conversations Generators</strong>
-- [Tinder cons](http://tindermaker.com/)
-- [Chat screens](https://pranx.com/chat-screenshot/)
+- [Tinder Cons](http://tindermaker.com/)
+- [Chat Screens](https://pranx.com/chat-screenshot/)
+
+<strong>Fakin Tinder</strong>
+- [Fake Match & Profile](https://tinderkit.com/)
+- [Tinder Cons](http://tindermaker.com/)
 
 <strong>Youtube Video Downloader</strong>
 - [pl.loader.to](https://pl.loader.to/) - best, works in Poland always (1440p)
