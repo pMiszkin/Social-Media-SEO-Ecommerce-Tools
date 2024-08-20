@@ -24,6 +24,6 @@ I just need to save these links somewhere
 - [secretflying.com/](https://www.secretflying.com/)
 
 ## SEO
--[answerthepublic.com](https://answerthepublic.com/) - keyword research tool
+- [answerthepublic.com](https://answerthepublic.com/) - keyword research tool
 
 Leave a ⭐
