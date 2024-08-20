@@ -23,4 +23,7 @@ I just need to save these links somewhere
 <strong>Cheap flights</strong>
 - [secretflying.com/](https://www.secretflying.com/)
 
+## SEO
+-[answerthepublic.com](https://answerthepublic.com/) - keyword research tool
+
 Leave a ⭐
