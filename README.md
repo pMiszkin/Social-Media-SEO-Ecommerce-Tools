@@ -25,5 +25,6 @@ I just need to save these links somewhere
 
 ## SEO
 - [answerthepublic.com](https://answerthepublic.com/) - keyword research tool
+- [neilpatel.com)(https://neilpatel.com/) - keyword research by domain and more. Ubersuggest.
 
 Leave a ⭐
