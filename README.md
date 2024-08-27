@@ -4,7 +4,7 @@
 I just need to save these links somewhere 
 
 <strong>Picture upscale</strong>
-- [Topaz Labs](https://www.topazlabs.com/) - Picutre Ai Editor
+- [Topaz Labs](https://www.topazlabs.com/) - Ai photo and video editor
 
 <strong>Social media likes and follows</strong>
 - [szybkielajki.pl](https://szybkielajki.pl/) - obvious and non-polish fakes  - [screenshot](https://raw.githubusercontent.com/pMiszkin/Social-Media-Tools/main/szybkielajki.png)
