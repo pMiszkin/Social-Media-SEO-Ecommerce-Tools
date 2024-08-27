@@ -24,7 +24,11 @@ I just need to save these links somewhere
 - [secretflying.com/](https://www.secretflying.com/)
 
 ## SEO
+<strong>Keyword research</strong>
 - [answerthepublic.com](https://answerthepublic.com/) - keyword research tool
 - [neilpatel.com](https://neilpatel.com/) - keyword research by domain and more. Ubersuggest.
+
+<strong>E-commerce tools</strong>
+- [descrb.com/](https://descrb.com/) - Ai product description generator
 
 Leave a ⭐
