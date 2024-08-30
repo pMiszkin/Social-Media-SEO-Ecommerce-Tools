@@ -3,6 +3,8 @@
 # Social Media, SEO and E-commerce
 I just need to save these links somewhere 
 
+## Social Media Tools
+
 <strong>Picture upscale</strong>
 - [Topaz Labs](https://www.topazlabs.com/) - Ai photo and video editor
 
@@ -31,8 +33,11 @@ I just need to save these links somewhere
 - [answerthepublic.com](https://answerthepublic.com/) - keyword research tool
 - [neilpatel.com](https://neilpatel.com/) - keyword research by domain and more. Ubersuggest.
 
-<strong>E-commerce tools</strong>
+## E-commerce tools
+<strong>Products description</strong>
 - [descrb.com/](https://descrb.com/) - Ai product description generator
+
+<strong>Products finder</strong>
 - [ecomhunt](https://ecomhunt.com/) - Find new best products
 
 Leave a ⭐
