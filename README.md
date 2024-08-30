@@ -1,6 +1,6 @@
 ![Alt text](https://github.com/pMiszkin/Social-Media-Tools/blob/main/socialmedia-banner.png "social media banner")
 
-# Social-Media-Tools
+# Social Media, SEO and E-commerce
 I just need to save these links somewhere 
 
 <strong>Picture upscale</strong>
@@ -33,5 +33,6 @@ I just need to save these links somewhere
 
 <strong>E-commerce tools</strong>
 - [descrb.com/](https://descrb.com/) - Ai product description generator
+- [ecomhunt](https://ecomhunt.com/) - Find new best products
 
 Leave a ⭐
