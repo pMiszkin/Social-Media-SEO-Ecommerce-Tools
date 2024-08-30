@@ -38,6 +38,6 @@ I just need to save these links somewhere
 - [descrb.com/](https://descrb.com/) - Ai product description generator
 
 <strong>Products finder</strong>
-- [ecomhunt](https://ecomhunt.com/) - Find new best products
+- [ecomhunt](https://ecomhunt.com/) - Find new bestsellers
 
 Leave a ⭐
