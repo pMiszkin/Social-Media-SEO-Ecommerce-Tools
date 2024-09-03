@@ -40,4 +40,6 @@ I just need to save these links somewhere
 <strong>Products finder</strong>
 - [ecomhunt](https://ecomhunt.com/) - Find new bestsellers
 
+#AmazonFines - Hashtag for cool product ideas
+
 Leave a ⭐
