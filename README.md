@@ -23,6 +23,9 @@ I just need to save these links somewhere
 - [Fake Match & Profile](https://tinderkit.com/)
 - [Tinder Cons](http://tindermaker.com/)
 
+<strong>Faker</strong>
+- [fakedetail.com](https://fakedetail.com/) - Fake Iphone chats, tik tok profiles, twitters, youtube profiles and much more
+
 <strong>Youtube Video Downloader</strong>
 - [pl.loader.to](https://pl.loader.to/) - best, works in Poland always (1440p)
 
