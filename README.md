@@ -15,8 +15,9 @@ I just need to save these links somewhere
 - [Hashatit](https://www.hashatit.com/)
 
 <strong>Conversations Generators</strong>
-- [Tinder Cons](http://tindermaker.com/)
+- [Tinder Chat](http://tindermaker.com/)
 - [Chat Screens](https://pranx.com/chat-screenshot/)
+- [Facebook Chat](https://fakedetail.com/fake-facebook-chat-generator) - fake fb conversation
 
 <strong>Fakin Tinder</strong>
 - [Fake Match & Profile](https://tinderkit.com/)
