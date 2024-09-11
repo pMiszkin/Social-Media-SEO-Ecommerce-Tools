@@ -36,6 +36,7 @@ I just need to save these links somewhere
 <strong>Keyword research</strong>
 - [answerthepublic.com](https://answerthepublic.com/) - keyword research tool
 - [neilpatel.com](https://neilpatel.com/) - keyword research by domain and more. Ubersuggest.
+- [trends.google.com](trends.google.com) - It's a free tool from Google that shows the popularity of search queries over time. You can see how the search volume for a particular phrase has changed during a specific period and compare it with other phrases.
 
 ## E-commerce tools
 <strong>Products description</strong>
