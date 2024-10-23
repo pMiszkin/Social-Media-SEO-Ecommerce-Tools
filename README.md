@@ -19,7 +19,7 @@ I just need to save these links somewhere
 - [Chat Screens](https://pranx.com/chat-screenshot/)
 - [Facebook Chat](https://fakedetail.com/fake-facebook-chat-generator) - fake fb conversation
 
-<TikTok Comment Generator</strong>
+<strong>TikTok Comment Generator</strong>
 - [tokcomment.com](https://tokcomment.com/)
 
 <strong>Fakin Tinder</strong>
